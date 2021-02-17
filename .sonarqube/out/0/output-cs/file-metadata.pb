@@ -1,0 +1,11 @@
+J
+AC:\Users\jorge\source\repos\PruebaApp\PruebaApp\Clases\Usuario.csutf-8I
+@C:\Users\jorge\source\repos\PruebaApp\PruebaApp\FormPrincipal.csutf-8T
+IC:\Users\jorge\source\repos\PruebaApp\PruebaApp\FormPrincipal.Designer.csutf-8S
+JC:\Users\jorge\source\repos\PruebaApp\PruebaApp\Procedimientos\SPHelper.csutf-8C
+:C:\Users\jorge\source\repos\PruebaApp\PruebaApp\Program.csutf-8S
+JC:\Users\jorge\source\repos\PruebaApp\PruebaApp\Properties\AssemblyInfo.csutf-8U
+JC:\Users\jorge\source\repos\PruebaApp\PruebaApp\test_dbDataSet.Designer.csutf-8[
+PC:\Users\jorge\source\repos\PruebaApp\PruebaApp\Properties\Resources.Designer.csutf-8Z
+OC:\Users\jorge\source\repos\PruebaApp\PruebaApp\Properties\Settings.Designer.csutf-8w
+lC:\Users\jorge\source\repos\PruebaApp\PruebaApp\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.csutf-8
